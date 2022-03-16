@@ -21,6 +21,7 @@ const InputField = ({ todo, setTodo, handleAdd }: Props) => {
                 onChange={
                     (e) => setTodo(e.target.value)
                 }
+                //style={{ color: "500px" }}
             ></input>
             <button className="input_submit" type="submit"> Save </button>
         </form>
