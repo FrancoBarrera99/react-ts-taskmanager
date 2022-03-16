@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+:root {
+    --main-color: #2f74c0;
+    --seconday-color: #084e99;
+    --main-font: "Neucha", cursive;
+}
 
 .App {
 width: 100vw;
